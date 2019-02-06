@@ -1,0 +1,14 @@
+#home {
+	background: #ffc107;
+	color: white;
+	margin-bottom: 70px;
+}
+
+.caixa {
+	padding: 20px 0;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
